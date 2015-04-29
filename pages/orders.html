@@ -1,0 +1,18 @@
+<div id="ordersForm">
+	<img class="icon" src="images/orders.png"><h2>Orders</h2>
+	<form action="php/submitorder.php" method="post" class="ajaxOrders">
+		<div>
+			<input id="nameInput" type="text" name="name" placeholder="Customer Name"></input>
+		</div>
+		<div>
+			<textarea rows="4" cols="50" name="order" placeholder="Order Description"></textarea>
+		</div>
+		<input class="button" type="submit" value="Add Order">
+	</form>
+</div>
+<div id="orders">
+	<table id="ordersTable">
+		<tbody>							
+		</tbody>
+	</table>
+</div>

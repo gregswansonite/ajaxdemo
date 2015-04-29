@@ -1,0 +1,59 @@
+#content{
+	font-size: 18px;
+}
+header{
+	background-color: #444444;
+	color: white;
+	height: 58px;
+	text-align: center;
+	font-size: 18px;
+}
+#topContent{
+	padding-top: 9px;
+}
+#title{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#nav{
+	padding-top: 15px;
+}
+#portfolio{
+	height: 38px;
+	width: 38px;
+}
+#git{
+	height: 40px;
+	width: 40px;
+}
+.deleteButton{
+}
+.icon{
+	float: left;
+	width: 50px;
+	height: 50px;
+	padding: 5px;
+}
+.ajaxContacts, .ajaxOrders, #infoParagraph{
+	margin-top: 40px;
+	display: block;
+}
+h2{
+	position: relative;
+	top:10px;
+	margin-left: 70px;
+}
+.button{
+	margin-top: 15px;
+}
+td{
+	padding: 3px 7px;
+	font-size: 18px;
+}
+header a{
+	color:white;
+}
+header a:hover{
+	color:#ccc;
+};
