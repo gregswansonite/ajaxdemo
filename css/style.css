@@ -1,3 +1,9 @@
+#model{
+	width: 100%;
+}
+#partials{
+	height: 400px;
+}
 #content{
 	font-size: 18px;
 }
